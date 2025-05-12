@@ -1,4 +1,4 @@
-> https://www.youtube.com/watch?v=GquEU3Bt_uc 3:14:24
+> https://www.youtube.com/watch?v=GquEU3Bt_uc
 
 ```powershell
 npx shadcn@latest init
